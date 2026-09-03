@@ -4,8 +4,8 @@ const connectDB = async () => {
   try {
     const conn = await mongoose.connect(process.env.MONGO_URI, {
       // These are the recommended options for a stable local connection
-      serverSelectionTimeoutMS: 5000, // Fail fast if MongoDB isn't running
-      socketTimeoutMS: 45000, // Close sockets after 45s of inactivity
+      serverSelectionTimeoutMS: 5000,   // Fail fast if MongoDB isn't running
+      socketTimeoutMS: 45000,           // Close sockets after 45s of inactivity
     });
 
     console.log("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━");
