@@ -17,7 +17,6 @@ const connectDB = async () => {
     console.error("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━");
     console.error("❌  MongoDB Connection Failed");
     console.error(`🔴  Error   : ${error.message}`);
-    z;
     console.error("💡  Make sure MongoDB is running locally.");
     console.error("    Start it with: net start MongoDB");
     console.error("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━");
