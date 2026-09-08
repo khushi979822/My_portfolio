@@ -6,7 +6,7 @@ The portfolio is designed with a premium **Dark / Light Theme**, responsive UI, 
 
 ---
 
-## ✨ Live Preview
+# ✨ Live Preview
 
 🌐 **Portfolio:** Coming Soon
 
