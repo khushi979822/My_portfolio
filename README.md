@@ -12,7 +12,7 @@ The portfolio is designed with a premium **Dark / Light Theme**, responsive UI, 
 
 📌 **GitHub:** Coming Soon
 
-## 👩‍💻 About
+# 👩‍💻 About
 
 Hi, I'm **Khushi Kumari**, a Computer Science and Engineering student and aspiring **Java Developer & Full-Stack Developer**.
 
