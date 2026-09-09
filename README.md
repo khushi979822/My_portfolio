@@ -27,3 +27,17 @@ My primary areas of interest include:
 - Object-Oriented Programming
 - Database Management Systems
 - REST API Development
+
+---
+
+# 🚀 Features
+
+### 🎨 Modern UI
+
+- Premium developer portfolio design
+- Clean and professional interface
+- Responsive layout
+- Glassmorphism cards
+- Gradient accents
+- Smooth hover effects
+- Modern typography
