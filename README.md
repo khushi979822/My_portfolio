@@ -41,3 +41,20 @@ My primary areas of interest include:
 - Gradient accents
 - Smooth hover effects
 - Modern typography
+
+### 🌓 Dark / Light Theme
+
+- Dark theme
+- Light theme
+- Theme toggle available in the header
+- Theme preference stored in `localStorage`
+- Theme persists after page refresh
+
+### 📱 Fully Responsive
+
+The website works across:
+
+- Desktop
+- Laptop
+- Tablet
+- Mobile
