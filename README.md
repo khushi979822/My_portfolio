@@ -42,7 +42,7 @@ My primary areas of interest include:
 - Smooth hover effects
 - Modern typography
 
-### 🌓 Dark / Light Theme
+## 🌓 Dark / Light Theme
 
 - Dark theme
 - Light theme
