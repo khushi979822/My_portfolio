@@ -13,7 +13,7 @@ const NAV_LINKS = [
   { label: "Contact", href: "#contact" },
 ];
 
-const RESUME_URL = "#"; // ← Replace with your actual resume URL
+const RESUME_URL = `${import.meta.env.BASE_URL}Khushi_Resume.docx`;
 
 const SiteHeader = () => {
   const { theme, toggleTheme } = useTheme();
@@ -245,8 +245,7 @@ const SiteHeader = () => {
             {/* Resume Button (desktop) */}
             <a
               href={RESUME_URL}
-              target="_blank"
-              rel="noopener noreferrer"
+              download="Khushi_Resume.docx"
               className="btn-primary resume-btn"
               style={{ padding: "0.5rem 1.25rem", fontSize: "0.875rem" }}
             >
@@ -373,8 +372,7 @@ const SiteHeader = () => {
                   </button>
                   <a
                     href={RESUME_URL}
-                    target="_blank"
-                    rel="noopener noreferrer"
+                    download="Khushi_Resume.docx"
                     className="btn-primary"
                     style={{ flex: 1, justifyContent: "center", fontSize: "0.9rem" }}
                     onClick={() => setMenuOpen(false)}
