@@ -35,7 +35,7 @@ My primary areas of interest include:
 
 # 🚀 Features
 
-### 🎨 Modern UI
+## 🎨 Modern UI
 
 - Premium developer portfolio design
 - Clean and professional interface
