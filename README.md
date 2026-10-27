@@ -1,4 +1,3 @@
-
 # 💼 Khushi Kumari — Personal Portfolio
 
 A modern, responsive and full-stack personal portfolio website built to showcase my skills, projects, certifications, achievements and professional journey.
