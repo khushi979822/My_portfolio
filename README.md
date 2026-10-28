@@ -52,7 +52,7 @@ My primary areas of interest include:
 - Theme preference stored in `localStorage`
 - Theme persists after page refresh
 
-### 📱 Fully Responsive
+## 📱 Fully Responsive
 
 The website works across:
 
